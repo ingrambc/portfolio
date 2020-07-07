@@ -22,3 +22,7 @@
   color: rgb(44, 141, 44)
 }
 
+.infoCard, .form, .portfolioCard{
+  max-width: 540px;
+}
+

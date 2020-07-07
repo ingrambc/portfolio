@@ -1,0 +1,25 @@
+.navbar {
+  background-color: rgb(187, 243, 187);
+}
+
+.navbar-brand{
+  height: inherit;
+  margin-left: 30px;
+  padding: 20px;
+
+  background-color: rgb(44, 141, 44);
+  color:rgb(187, 243, 187);
+  font-weight: bolder;
+}
+.badge{
+  height: inherit;
+  color: rgb(44, 141, 44);
+}
+
+#navbarNav{
+ float: right;
+}
+
+a2{
+  color: rgb(44, 141, 44)
+}

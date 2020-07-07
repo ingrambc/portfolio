@@ -1,4 +1,5 @@
 .navbar {
+  color:rgb(44, 141, 44); ;
   background-color: rgb(187, 243, 187);
 }
 
@@ -17,9 +18,7 @@
 }
 
 #navbarNav{
- float: right;
-}
-
-a2{
+  float: right;
   color: rgb(44, 141, 44)
 }
+

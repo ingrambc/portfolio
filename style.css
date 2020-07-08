@@ -1,12 +1,16 @@
 .navbar {
   color:rgb(44, 141, 44); ;
   background-color: rgb(187, 243, 187);
+  margin: 0;
+  padding: 0;
 }
 
 .navbar-brand{
-  height: inherit;
+  height: 40px;
+  margin: 0;
   margin-left: 30px;
-  padding: 20px;
+  padding-top: 0px;
+  padding-bottom: 0px;
 
   background-color: rgb(44, 141, 44);
   color:rgb(187, 243, 187);
@@ -18,7 +22,6 @@
 }
 
 #navbarNav{
-  float: right;
   color: rgb(44, 141, 44)
 }
 
@@ -26,9 +29,20 @@
   max-width: 540px;
 }
 
+.portfolioCard{
+  margin-top: 20px;
+  border: none;
+}
+
 .card-group{
   margin: 10%;
   margin-top: 0;
+  border: none;
 }
+
+.thumb{
+  border: none;
+}
+
 
 

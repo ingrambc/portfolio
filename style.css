@@ -45,9 +45,11 @@ a{
 }
 
 .thumb{
+  background-color: rgb(187, 243, 187);
+  padding: 5px;
   margin: 0;
   border-color: rgb(44, 141, 44);
-  border-radius: 4px;
+  border-radius: 10px;
 }
 
 h5{
@@ -56,6 +58,10 @@ h5{
   text-align: center;
   padding: 5px;
   margin-top: 45%;
+}
+
+.card-title{
+  margin-top: 0px;
 }
 
 

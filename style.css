@@ -31,11 +31,11 @@ a{
 
 .infoCard, .form, .portfolioCard{
   max-width: 540px;
-  margin-top: 20px;
+  margin-top: 0px;
 }
 
 .portfolioCard{
-  margin-top: 20px;
+  margin-top: 0px;
   border: none;
 }
 
@@ -63,6 +63,19 @@ h5{
 
 .card-title{
   margin-top: 0px;
+}
+
+.center{
+  align-content: center;
+  text-align: center;
+}
+
+.main{
+  background-image: linear-gradient(to bottom right, rgb(187, 243, 187), rgb(44, 141, 44));
+}
+
+h1{
+  font-weight: bolder;
 }
 
 
